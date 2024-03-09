@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(82, 82, 82);
+}
+
+#project {
+  background-color: rgb(82, 82, 82);
+}
+
+h1 {
+  font-family: "Roboto Slab", serif;
+  color: rgb(255, 157, 0);
+}
+
+p {
+  font-family: "Roboto Slab", serif;
+}
+section {
+  padding-top: 5rem;
+}
